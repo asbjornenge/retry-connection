@@ -21,4 +21,14 @@ The module holds internal state about readiness; meaning it will only emit a rea
 or after an issue has occurred. While the connection keeps being ready, no new ready event is emitted.
 Issue events however keep being emitted for each failing attempt.
 
+## Changelog
+
+### 1.0.1
+
+* Added the dependecies to package.json :see_no_evil:
+
+### 1.0.0
+
+* Initial release :tada:
+
 enjoy

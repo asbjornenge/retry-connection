@@ -1,6 +1,6 @@
 {
   "name": "retry-connection",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Retry a tcp connection on a given interval",
   "main": "index.js",
   "scripts": {
