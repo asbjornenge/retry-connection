@@ -1,0 +1,23 @@
+{
+  "name": "retry-connection",
+  "version": "1.0.0",
+  "description": "Retry a tcp connection on a given interval",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asbjornenge/retry-connection.git"
+  },
+  "keywords": [
+    "retry",
+    "connection"
+  ],
+  "author": "Asbjorn Enge <asbjorn@hanafjedle.net>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/asbjornenge/retry-connection/issues"
+  },
+  "homepage": "https://github.com/asbjornenge/retry-connection"
+}
